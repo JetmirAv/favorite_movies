@@ -1,0 +1,227 @@
+[
+  {
+    "title": "The Whale",
+    "year": 2022,
+    "director": "Darren Aronofsky",
+    "summary": "A reclusive English teacher living with severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRiZTYxZWMtMWJkZi00NDcxLWIwZDEtYjg5ODI5ZDYwOWIwXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000_.jpg",
+    "imbd_rating": 6.5,
+    "runtime": 117
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "director": "Taika Waititi",
+    "summary": "Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie, Korg and ex-girlfriend Jane Foster, who -- to his surprise -- inexplicably wields his magical hammer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "imbd_rating": 6.7,
+    "runtime": 119
+  },
+  {
+    "title": "Elvis",
+    "year": 2022,
+    "director": "Baz",
+    "summary": "From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_.jpg",
+    "imbd_rating": 67.5,
+    "runtime": 159
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "director": "Joseph Kosinski",
+    "summary": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "poster": "https://m.media-amazon.com/images/I/71BokibfVUL._AC_SL1500_.jpg",
+    "imbd_rating": 8.5,
+    "runtime": 131
+  },
+  {
+    "title": "Nope",
+    "year": 2022,
+    "director": "Jordan Peele",
+    "summary": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+    "poster": "https://www.syfy.com/sites/syfy/files/styles/scale--1200/public/2022/03/npe_adv1sht_1080x1920pxh_rgb_1.jpg",
+    "imbd_rating": 7.4,
+    "runtime": 135
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "director": "Tony Scott",
+    "summary": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick (Tom Cruise) is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman (Val Kilmer).",
+    "poster": "https://cdn.shopify.com/s/files/1/1057/4964/products/Top-Gun-Vintage-Movie-Poster-Original-Italian-4-Foglio-55x78.jpg?v=1652850319",
+    "imbd_rating": 6.9,
+    "runtime": 110
+  },
+  {
+    "title": "Prey",
+    "year": 2022,
+    "director": "Dan Trachtenberg",
+    "summary": "A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.",
+    "poster": "https://pbs.twimg.com/media/FYPJpAfUIAApxE9?format=jpg&name=medium",
+    "imbd_rating": 7.2,
+    "runtime": 99
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "director": "Jon Watts",
+    "summary": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "poster": "https://sportshub.cbsistatic.com/i/2021/11/15/4a9191dc-3957-4817-b3b0-78e40c152b31/spider-man-no-way-home-poster.jpg?auto=webp&width=1200&height=1778&crop=0.675:1,smart",
+    "imbd_rating": 8.3,
+    "runtime": 148
+  },
+  {
+    "title": "The Batman",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "summary": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+    "poster": "https://cdn.europosters.eu/image/1300/posters/the-batman-2022-i122127.jpg",
+    "imbd_rating": 7.9,
+    "runtime": 176
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "summary": "The compelling sequel to \"The Godfather,\" contrasting the life of Corleone father and son. Traces the problems of Michael Corleone (Al Pacino) in 1958 and that of a young immigrant Vito Corleone (Robert De Niro) in 1917's Hell's Kitchen. Michael survives many misfortunes and Vito is introduced to a life of crime.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "imbd_rating": 9.0,
+    "runtime": 202
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive.",
+    "poster": "https://www.themoviedb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "imbd_rating": 8.0,
+    "runtime": 155
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "summary": "The culmination of nearly 10 years' work and conclusion to Peter Jackson's epic trilogy based on the timeless J.R.R. Tolkien classic, \"The Lord of the Rings: The Return of the King\" presents the final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the `one ring', while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+    "poster": "https://cdn.europosters.eu/image/1300/posters/the-lord-of-the-rings-the-return-of-the-king-i104633.jpg",
+    "imbd_rating": 9.0,
+    "runtime": 210
+  },
+  {
+    "title": "The Lost City",
+    "year": 2022,
+    "director": "Aaron Nee",
+    "summary": "Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan.",
+    "poster": "https://m.media-amazon.com/images/I/71hd4ec3lBL._AC_SL1200_.jpg",
+    "imbd_rating": 6.1,
+    "runtime": 112
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "director": "Sam Raimi",
+    "summary": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+    "imbd_rating": 7.0,
+    "runtime": 126
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "summary": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+    "poster": "https://i.pinimg.com/originals/54/d0/f2/54d0f233e73132b24f91c1d59a5e345f.jpg",
+    "imbd_rating": 8.6,
+    "runtime": 169
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": "Anthony Russo",
+    "summary": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+    "poster": "https://cdn.europosters.eu/image/1300/posters/avengers-endgame-journey-s-end-i122136.jpg",
+    "imbd_rating": 8.4,
+    "runtime": 182
+  },
+  {
+    "title": "No Time To Die",
+    "year": 2021,
+    "director": "Cary Joji Fukunaga",
+    "summary": "James Bond is enjoying a tranquil life in Jamaica after leaving active service. However, his peace is short-lived as his old CIA friend, Felix Leiter, shows up and asks for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond on the trail of a mysterious villain who's armed with a dangerous new technology.",
+    "poster": "https://m.media-amazon.com/images/I/61Ve0ykiOyL._AC_SY679_.jpg",
+    "imbd_rating": 7.3,
+    "runtime": 163
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002,
+    "director": "Sam Raimi",
+    "summary": "\"Spider-Man\" centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: \"With great power comes great responsibility.\"",
+    "poster": "https://m.media-amazon.com/images/I/61etmpQOO-L._AC_SY741_.jpg",
+    "imbd_rating": 7.4,
+    "runtime": 121
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "summary": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour an island theme park populated by dinosaurs created from prehistoric DNA. While the park's mastermind, billionaire John Hammond (Richard Attenborough), assures everyone that the facility is safe, they find out otherwise when various ferocious predators break free and go on the hunt.",
+    "poster": "https://cdn.europosters.eu/image/1300/posters/jurassic-park-i75969.jpg",
+    "imbd_rating": 8.2,
+    "runtime": 127
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "summary": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.",
+    "poster": "uhttps://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpgrl",
+    "imbd_rating": 8.4,
+    "runtime": 122
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "director": "Gore Verbinski",
+    "summary": "Capt. Jack Sparrow (Johnny Depp) arrives at Port Royal in the Caribbean without a ship or crew. His timing is inopportune, however, because later that evening the town is besieged by a pirate ship. The pirates kidnap the governor's daughter, Elizabeth (Keira Knightley), who's in possession of a valuable coin that is linked to a curse that has transformed the pirates into the undead. A gallant blacksmith (Orlando Bloom) in love with Elizabeth allies with Sparrow in pursuit of the pirates.",
+    "poster": "https://m.media-amazon.com/images/I/81c2gQE0sqL.jpg",
+    "imbd_rating": 8.1,
+    "runtime": 143
+  },
+  {
+    "title": "Free Guy",
+    "year": 2021,
+    "director": "Shawn Levy",
+    "summary": "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "imbd_rating": 7.1,
+    "runtime": 115
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "director": "Jon Favreau",
+    "summary": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.",
+    "poster": "https://www.themoviedb.org/t/p/original/pD4QpqWjsC4LrfB5BkNAFLPajxv.jpg",
+    "imbd_rating": 7.9,
+    "runtime": 126
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "director": "James Cameron",
+    "summary": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.",
+    "poster": "https://m.media-amazon.com/images/I/61n-olilSdL._AC_SY679_.jpg",
+    "imbd_rating": 7.8,
+    "runtime": 161
+  },
+  {
+    "title": "Deadpool",
+    "year": 2016,
+    "director": "Tim Miller",
+    "summary": "Wade Wilson (Ryan Reynolds) is a former Special Forces operative who now works as a mercenary. His world comes crashing down when evil scientist Ajax (Ed Skrein) tortures, disfigures and transforms him into Deadpool. The rogue experiment leaves Deadpool with accelerated healing powers and a twisted sense of humor. With help from mutant allies Colossus and Negasonic Teenage Warhead (Brianna Hildebrand), Deadpool uses his new skills to hunt down the man who nearly destroyed his life.",
+    "poster": "https://i.pinimg.com/550x/d9/e7/e3/d9e7e3f8b70af629accb770f47069cbf.jpg",
+    "imbd_rating": 8.0,
+    "runtime": 108
+  }
+]

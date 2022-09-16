@@ -1,0 +1,21 @@
+.container {
+  display: inline-block;
+}
+
+.dropdown {
+  border: none;
+  background-color: #4c5e9c;
+  color: white;
+  padding: 0;
+  width: 10rem;
+  padding: 0 4px;
+  display: inline-block;
+  height: 4rem;
+}
+
+.dropdown {
+  border-radius: 0;
+}
+.dropdown:focus {
+  outline: none;
+}

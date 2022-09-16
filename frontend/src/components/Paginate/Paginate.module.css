@@ -1,0 +1,28 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+  list-style-type: none;
+}
+
+.pagination .paginationItem {
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 0 1rem;
+  cursor: pointer;
+}
+
+.pagination .paginationItem.active {
+  background-color: rgb(213, 119, 221);
+
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination .paginationItem:hover:not(.active) {
+  border-radius: 5px;
+  background-color: rgba(213, 119, 221, 0.3);
+}

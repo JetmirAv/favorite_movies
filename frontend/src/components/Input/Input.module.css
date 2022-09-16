@@ -1,0 +1,79 @@
+.input {
+  border: none;
+  border-bottom: 1px solid #ffffff3d;
+  background-color: transparent;
+  color: white;
+  width: 30rem;
+  font-size: 2rem;
+  height: 4rem;
+  margin-bottom: 3rem;
+  transition: all 0.2s;
+}
+
+.input:focus {
+  outline: none;
+  width: 32rem;
+  border-bottom: 1px solid #ffffff;
+}
+
+.input::placeholder {
+  color: #495072;
+}
+.passwordContainer {
+  position: relative;
+}
+.icon {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.searchBar {
+  display: inline-block;
+  height: 5rem;
+  align-items: center;
+}
+.searchBar div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchField {
+  height: 4rem;
+  font-size: 2rem;
+  background-color: #4c5e9c;
+  border: none;
+  color: white;
+  padding: 0 2rem;
+}
+
+.searchField:focus {
+  outline: none;
+}
+
+.searchField::placeholder {
+  color: #7586c4;
+  font-size: 2rem;
+}
+
+.searchIcon {
+  color: #959bc6;
+  width: 2rem;
+  height: 2rem;
+  background-color: #753ab8;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.iconContainer:hover .searchIcon {
+  color: #fff;
+}
+
+.iconContainer:hover,
+.iconContainer:active {
+  background-color: #753ab8;
+}

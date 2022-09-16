@@ -1,0 +1,60 @@
+.container {
+  margin: 0 4rem 3rem 0;
+  position: relative;
+  box-sizing: border-box;
+  cursor: pointer;
+  height: 35rem;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50%;
+}
+
+.container:hover,
+.container:active {
+  border: 1px solid white;
+}
+
+.active {
+  border: 3px solid white;
+}
+.inCinema {
+  background-color: #885bad;
+  color: white;
+  height: 4rem;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.label {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 1rem;
+}
+
+.activeMark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #8ca3dc;
+  width: 10rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 8rem;
+  color: white;
+}

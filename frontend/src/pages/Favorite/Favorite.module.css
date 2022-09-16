@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-rows: 5vh 95vh;
+}
+
+.body {
+  display: grid;
+  background-color: #201f31;
+  padding-top: 2rem;
+  grid-template-rows: minmax(fit-content, 95vh);
+
+  grid-template-columns:
+    [full-start sidebar-start] 17rem [sidebar-end gallery-start] auto [gallery-end movie-start] 35rem
+    [movie-end full-end];
+}
+
+@media only screen and (max-width: 75em) {
+  .body {
+    grid-template-columns: [full-start sidebar-start] 17rem [sidebar-end gallery-start] auto [gallery-end full-end];
+  }
+}

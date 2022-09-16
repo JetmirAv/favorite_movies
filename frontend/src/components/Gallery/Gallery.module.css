@@ -1,0 +1,27 @@
+.container {
+  overflow-y: auto;
+  box-sizing: border-box;
+  padding: 0rem 0rem 3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.filter {
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 4rem;
+}
+
+.gallery {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 20%));
+}
+
+@media only screen and (max-width: 75em) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 20%));
+  }
+}
